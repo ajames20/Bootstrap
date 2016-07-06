@@ -1,0 +1,48 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #575757;
+  font-weight: 300;
+  /*background-color: black;*/
+}
+a{
+  color: #575757;
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+  color: #575757;
+}
+img{
+  border-radius: 5px;
+}
+.text-muted{
+  color: #bcbbbb;
+}
+.text-thin{
+  font-weight: 100;
+}
+h3{
+  color: #bcbbbb;
+  font-weight: 100;
+}
+.logo{
+  margin-top: 10px;
+}
+.large{
+  font-size: 40px;
+}
+.smaller {
+  font-size: 20px;
+  margin-top: -8px;
+}
+.space{
+  padding-top: 5px;
+}
+.spacing{
+  margin-top: 20px;
+}
+.header{
+  margin-bottom: 5px;
+}
