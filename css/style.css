@@ -17,6 +17,10 @@ a:hover{
 img{
   border-radius: 5px;
 }
+.pointer {
+    cursor: pointer;
+}
+
 .text-muted{
   color: #bcbbbb;
 }
